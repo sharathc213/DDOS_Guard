@@ -1,7 +1,7 @@
 ## DDOS Guard
 
 DDOS Guard is a PHP-based solution for protecting your website from various types of attacks, including Distributed Denial of Service (DDoS) attacks, HTTP flood attacks, and more. It provides a set of features to mitigate these threats and secure your website's availability.
-
+![DDOS](https://github.com/sharathc213/DDOS_Guard/blob/main/DDOS.jpg).
 ### Installation
 
 To integrate DDOS Guard into your website, simply include the `DDOS.php` file in your PHP files like this:
