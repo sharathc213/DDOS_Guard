@@ -53,5 +53,4 @@ You can modify these templates to match the look and feel of your website.
 
 ### Contributing
 
-If you encounter any issues or have suggestions for improvement, feel free to open an issue or submit a pull request on [GitHub](https://github.com/your-username/your-repo).
-
+If you encounter any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
